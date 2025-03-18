@@ -67,8 +67,7 @@ Content-Type: application/json
 }
 ```
 
-## License
-This project is licensed under the MIT License.
+
 
 ## Contact
 For any questions or feedback, feel free to reach out at [ajju9557@gmail.com](mailto:ajju9557@gmail.com).
